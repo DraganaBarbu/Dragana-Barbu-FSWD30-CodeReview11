@@ -1,0 +1,125 @@
+
+body{
+	width: 1300px;
+	background-color: #eee;
+	box-shadow: 5px 8px 10px 5px rgba(0, 0, 0, 0.2), 0 10px 30px 0 rgba(0, 0, 0, 0.19);
+	 position: absolute;
+  top: 10%;
+  left: 10%;
+
+}
+
+
+#navibar{
+	padding-left: 10%;
+	padding-top: 1.2%;
+	
+	font-size: 1.4em;
+
+}
+/*brand and heading color*/
+#brand, div>h2{
+	color:#A50B07;
+	font-size: 2.2em;
+	padding-top: 8%;
+
+}
+
+#brand-index{
+	color:#609b55;
+	font-size: 2.2em;
+	padding-top: 20%;
+}
+
+div>h2{
+	padding-top: 3%;
+}
+.navbar-header{
+	margin-bottom: 0;
+	width: 800px;
+
+}
+
+#heroimg{
+	
+	
+	background-image: url("https://news4c.com/wp-content/uploads/2017/08/Tesla-Model-S.jpg");
+   background-size: cover;
+   height: 70%;
+   width: 100%;
+   text-align: center;
+   box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2), 0 10px 30px 0 rgba(0, 0, 0, 0.19);
+
+   
+   
+
+}
+
+#navibar-login{
+	margin-left: 20%;
+}
+
+#titlephrase{
+	padding-top: 20%;
+	color: #A50B07;
+	font-size: 10em;
+	text-shadow: 2px 4px #A50B07;
+}
+/*content colour*/
+#info{
+	color: #ef9607;
+}
+
+#signoutbtn{
+	margin-right: 5%;
+	margin-top: 5%;
+	color: black;
+	border-radius: 10px;
+
+}
+
+#signoutbtn:hover{
+	
+	text-decoration: none;
+}
+
+#logoutbtn{
+	color: white;
+	background-color: #A50B07;
+	width: 100px;
+	height: 50px;
+	font-size: 1.2em;
+	margin-right: 25%;
+	border-radius: 10px;
+}
+
+
+
+form{
+	font-size: 1.5em;
+	margin-top: 1%;
+	
+}
+
+#content{
+	margin-bottom: 5%;
+
+}
+
+#btnsignup{
+	font-size:15px;
+	border: 2px solid #609b55;
+	box-shadow: 2px #A50B07;
+	border-radius: 10px;
+}
+
+#btnsignup>a {
+	color: #609b55;
+	text-shadow: 1px #A50B07;
+}
+
+#btnsignup:hover>a{
+	
+	text-decoration: none;
+	color: #A50B07;
+}
